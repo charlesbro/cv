@@ -1,0 +1,45 @@
+body {
+  background-color: lightblue;
+}
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 4%;
+}
+h3 {
+  color: #66BFBF;
+}
+h1 {
+  color: #66BFBF;
+}
+
+#heading01 {
+  color: Blue;
+}
+/*
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+*/
+.charles {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+
+.charles:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
